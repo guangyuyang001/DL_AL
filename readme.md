@@ -2,7 +2,7 @@
 
 ## 深度学习：
 
-	1. [损失函数（Loss Function）](DL\Loss.ipynb) 
+	1. [损失函数（Loss Function）](DL/Loss.ipynb) 
 	1. 优化器（Optimizer）
 
 ## 算法：
