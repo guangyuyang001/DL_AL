@@ -11,5 +11,8 @@
 
  - [矩阵](/Algorithm/array)
 
-​	1. [全排列](Algorithm/array/permutations.py)
+   	1. [全排列](Algorithm/array/permutations.py)
+   	1. 
+
+   
 
