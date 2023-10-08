@@ -2,15 +2,14 @@
 
 ## 深度学习：
 
-<<<<<<< HEAD
-1. [ 损失函数（Loss Function）](DL\Loss.ipynb) 
+
+1. [ 损失函数（Loss Function）](DL/Loss.ipynb) 
 2. 优化器（Optimizer）
 
 ## 算法：
 
-=======
-	1. [损失函数（Loss Function）](DL/Loss.ipynb) 
-	1. 优化器（Optimizer）
 
-## 算法：
->>>>>>> 4e6e49556c727dbd0159db831e207f9ea3b5c170
+ - [矩阵](/Algorithm/array)
+
+​	1. [全排列](Algorithm/array/permutations.py)
+
