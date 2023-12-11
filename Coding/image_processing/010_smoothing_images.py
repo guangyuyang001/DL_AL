@@ -5,8 +5,8 @@ import numpy as np
 bur image with various low pass filters
 apply custom-made filters to images(2D convolution)
 images can be filered with various low-pass filters(LPF), high-pass(HPF)
-LPF helps in removing noise, blurring image
-HPF helps in finding edges in images
+LPF helps in removing noise, blurring image; sharpen the value of the center point area of values 
+HPF helps in finding edges in images; weaken the value of the center point area of values
 """
 
 def twoD_filter():
